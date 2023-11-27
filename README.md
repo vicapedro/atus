@@ -1,11 +1,9 @@
-# TMP-ATUS
-Análisis de ATUS
+# Caso de estudio: Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas
 
-Utilizando el dataset ATUS del sitio de Datos Abiertos del Gobierno Federal  (https://datos.gob.mx/busca/dataset/accidentes-de-transito-terrestre-en-zonas-urbanas-y-suburbanas1) 
-* Preparación
-* Cargue el dataset a su repositorio en Github. Enlácelo a Kaggle o Colaboratory. Invite a su profesor al repositorio. Solo usaremos los datos de los últimos 3 años.
-* Lea el archivo en la carpeta “metadatos” 
-* Analice y comprenda el diccionario de datos
-* Analice los catálogos
+En este caso de estudio realizará varias actividades de un Analista de Datos Junior. Usted trabaja para una agencia de gobierno (federal o estatal) y le han encargado analizar los datos de accidentes automovilísticos de los últimos años. Para contestar las preguntas del negocio seguirá los pasos del Proceso de Análisis de Datos: Ask, Prepare, Process, Analyze, Share y Act. 
 
-Continue en atus\atus.ipynb
+Para ayudarlo en el camino se ayudará de las tablas de Mapa de Ruta del Caso de Estudio.
+
+Al analizar los datos se puede enfocar en algo que haya llamado su atención, trabajar sobre ello (Tipos de accidentes, circunstancias, resultados del accidente, etc. ) , contar la historia y hacer recomendaciones.
+
+Todo el proceso lo realizará en un repositorio en Github
